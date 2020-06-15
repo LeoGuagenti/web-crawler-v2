@@ -1,8 +1,5 @@
-import express = require('express')
 import needle = require('needle')
 import cheerio = require('cheerio')
-
-const app: express.Application = express()
 
 class WebCrawler{
     private start_url: string
