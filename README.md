@@ -1,5 +1,6 @@
 # web-crawler-v2
-My second web-crawler made with TypeScript
+A Small Web Crawler made with TypeScript
+
 ## Usage
 This webcrawler takes a starting url and collects urls relative to the domain. The crawler will visit all possible relative urls.<br>
 The starting url location can be changed at the bottom of `index.ts`
